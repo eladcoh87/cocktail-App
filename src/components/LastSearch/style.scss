@@ -1,0 +1,37 @@
+
+
+.lastsearchcontainer{
+
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: center;
+
+margin-top: 10px;
+
+
+
+.lastItem{
+
+border-radius: 10px;
+background-color: rgba(0, 217, 255, 0.801);
+padding: 10px 35px;
+
+
+
+}
+
+
+.lastItem:hover{
+cursor: pointer;
+
+
+}
+.lastItemContainer{
+
+display: flex;
+gap: 10px;
+
+
+}
+}

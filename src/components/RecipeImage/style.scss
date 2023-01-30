@@ -1,0 +1,20 @@
+.RecipeImageContainer{
+
+
+flex-basis: 40%;
+border: 1px solid black;
+
+img {
+
+    height: 70%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+h3{
+
+    margin-top: 20px;
+}
+
+}

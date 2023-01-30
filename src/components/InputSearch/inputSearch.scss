@@ -1,0 +1,26 @@
+.inputSearch {
+    
+    
+       display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        padding-top:4rem;
+    
+
+        .textFieldContainer{
+
+
+
+flex-basis: 30%;
+
+        }
+
+        .btnSearch{
+            align-self: stretch;
+            width: 7rem;
+
+        }
+
+        
+    }
