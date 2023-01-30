@@ -9,8 +9,8 @@
 
 ## Live Demo 🌐 :
 
-https://todo-app-redux-fire-base.vercel.app
 
+https://cocktail-app-rho.vercel.app/
 
 or
 
